@@ -1,4 +1,4 @@
-# Cloud-Storage-Security-Check
+# Understanding the Security Risks of Websites Using Cloud Storage for Direct User File Uploads
 The **CloudStorageSecurity.exe** is the security check tool for HTTP POST credentials and STS temporary upload credentials (with policy) in Amazon S3 and Alibaba Cloud OSS. This tool enables website developers to detect and discover possible vulnerabilities in the website's use of cloud storage services.
 
 ## Usage
